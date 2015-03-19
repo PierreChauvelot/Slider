@@ -1,0 +1,155 @@
+{
+	"sliders":[
+		{
+			"id": 2,
+			"titre": "De la Préhistoire au début de l'ère moderne",
+			"slides": [
+				{
+					"id": 7,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 8,
+					"titre": "Les aliments sont source de vie",
+					"description": "La première chose qu'il faut savoir, c'est que l'aliment est une source de vie et que les hommes, les êtres humains, ont toujours cherché des aliments pour vivre et pour leur fournir de l'énergie. Cette histoire de l'alimentation commence très tôt, tout simplement avec Lucy, premier être humain authentifié il y a trois millions d'années."
+				},
+				{
+					"id": 9,
+					"titre": "Eres alimentaires",
+					"description": "Pendant très longtemps, les hommes sont restés des chasseurs, cueilleurs, pêcheurs.<br/>L'ère de l'alimentation « moderne » commence avec le néolithique, quand les hommes ont commencé à avoir des animaux domestiques, à développer l'agriculture, et ce 10 000 ans avant Jésus-Christ. Ensuite, il y a eu une longue histoire de l'alimentation, avec l'alimentation crétoise, les échanges maritimes qui ont enrichi les différents aliments que nous consommons actuellement.<br/>La vraie ère de l'alimentation moderne commence environ il y a une centaine d'années quand nous avons commencé à savoir conserver et traiter des aliments, quand nous sommes entrés dans la nouvelle nutrition. C'est ce que nous allons développer de manière progressive.<br/>La première chose à savoir, c'est que l'homme est apparu il y a trois millions d'années et que dans l'histoire de la Terre, cela ne représente qu'une petite fraction."
+				},
+				{
+					"id": 10,
+					"titre": "Formation de la Terre il y a 4 milliards d'années",
+					"description": "La Terre a 4 milliards d'années. La période que l'homme a passé sur terre est extrêmement courte par rapport à l'existence de la terre."
+				},
+				{
+					"id": 11,
+					"titre": "Lucy, premier bipède",
+					"description": "Lucy, authentifiée par le paléontologue Yves Coppens, est le premier être vivant qui s'est mis en position verticale et qui a commencé à marcher. C'est le premier bipède, parce que jusque-là, les animaux étaient des quadrupèdes (tout du moins les mammifères). C'est donc le premier bipède authentifié."
+				},
+				{
+					"id": 12,
+					"titre": "Alimentation de Lucy",
+					"description": "Que faisait cette pauvre Lucy il y a trois millions d'années ? Elle vivait de cueillettes, peut-être un peu de chasse (on ne le sait pas très bien). C'était une alimentation uniquement de cueilleurs, pêcheurs et chasseurs. Ceci a duré pendant des siècles et des siècles."
+				},
+				{
+					"id": 13,
+					"titre": "Découverte du feu",
+					"description": "Une étape importante dans la vie de l'humanité, c'est la découverte du feu, 400 000 ans avant JC. C'est plus récent, et cela coïncide avec l'homme de Tautavel."
+				},
+				{
+					"id": 14,
+					"titre": "L'Homme de Tautavel",
+					"description": "L'homme de Tautavel vivait dans la grotte de l'Arago à côté de Perpignan. Au début, il ne connaissait pas le feu, il a vécu environ 100 000 à 150 000 ans, et au milieu de son existence, il a fini par découvrir le feu."
+				},
+				{
+					"id": 15,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 16,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 17,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 18,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 19,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 20,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 21,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 22,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 23,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 24,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 25,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 26,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 27,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 28,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 29,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 30,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 31,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 32,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 33,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 34,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				},
+				{
+					"id": 35,
+					"titre": "De la Préhistoire au début de l'ère moderne",
+					"description": "Voyons maintenant quelle est l'évolution de l'alimentation au cours des siècles."
+				}
+			]
+		}
+	]
+}

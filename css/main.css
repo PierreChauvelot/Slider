@@ -1,0 +1,95 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Calibri";
+}
+
+header{
+  background-color: #1abc9c;
+  color: #ecf0f1;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+article{
+  padding-top: 50px;
+}
+
+h1{
+  font-weight: lighter;
+  font-size: 2em;
+  margin: 0 16px;
+}
+
+h2{
+  color: #16a085;
+}
+
+a{
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+table{
+  margin: auto;
+  border-collapse: collapse;
+}
+
+table th, table td{
+  padding: 0 10px;
+}
+
+table thead tr{
+  background-color: #e74c3c;
+  color: #ecf0f1;
+  font-weight: lighter;
+  font-size: 1.2em;
+}
+
+table tbody tr:nth-child(2n){
+  background-color: rgba(231, 76, 60, .2);
+}
+
+form{
+  width: 610px;
+  margin: auto;
+}
+
+form label, form input, form textarea{
+  margin: 10px auto;
+}
+
+form label{
+  display: inline-block;
+  width: 300px;
+  text-align: right;
+}
+
+form label:after{
+  content: " : ";
+}
+
+form input[type='text'], form textarea{
+  width: 300px;
+  vertical-align: top;
+}
+
+form input[type="submit"]{
+  display: block;
+  background-color: #1abc9c;
+  color: #ecf0f1;
+  font-weight: lighter;
+  font-size: 1.3em;
+  border: none;
+}
+
+.tac{
+  text-align: center;
+}
